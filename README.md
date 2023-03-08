@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain developers | crypto enthusiasts**
 
-- 🤝 I’m looking for help with **NFT dApp, DeFi | web1-web3 websites**
+- 🤝 I’m looking to help with **NFT dApp, DeFi | web1-web3 websites**
 
 - 📫 How to reach me **@SpacyLion - twitter or send request on discord SpacyLion.eth#1061**
 
