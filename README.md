@@ -67,13 +67,8 @@
 </p>
 
 <p>
-  I’m currently working on <strong>Web3 projects</strong><br/>
   I’m currently learning <strong>JavaScript</strong><br/>
-  I’m looking to collaborate on <strong>Blockchain developers | crypto enthusiasts</strong><br/>
-  I’m looking to help with <strong>NFT dApp, DeFi | web1-web3 websites</strong><br/>
-  How to reach me: @SpacyLion - Twitter or send a request on Discord SpacyLion.eth#1061<br/>
-  Fun fact: TailwindCss = One Love :3
-</p>
+  </p>
 
 <h3>Connect with me:</h3>
 <p>
