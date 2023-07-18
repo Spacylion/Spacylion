@@ -39,6 +39,23 @@
   <li>Ethereum</li>
 </ul>
 
+<p>
+  In addition to my expertise in JavaScript, TypeScript, React, and React Native, I have extensive experience in working with Next.js and SASS for building modern and performant web applications. I enjoy exploring new technologies and pushing the boundaries of what can be achieved on the web.
+
+  My work primarily revolves around developing financial and non-financial applications, where I leverage my skills in JavaScript and blockchain technologies, including Solidity for Ethereum-based projects. Additionally, I have been involved in exciting biotechnology projects, contributing to the development of web applications that bridge the gap between technology and healthcare.
+
+  As a frontend developer, I strive to deliver elegant and intuitive user interfaces that enhance user experience and achieve business objectives. I am always excited about new challenges and open to collaboration with fellow developers and enthusiasts in the blockchain and web development communities.
+
+  Connect with me to discuss potential collaborations, share ideas, or simply chat about the latest trends in technology!
+</p>
+
+<p align="center">
+  <a href="https://skyline.github.com/spacylion/2023">
+    <img src="https://skyline.github.com/spacylion/2023" alt="GitHub Skyline">
+  </a>
+</p>
+
+
 <h2>Contact Me</h2>
 
 <p>
@@ -82,12 +99,4 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" /></a>
 </p>
 
-<p>
-  In addition to my expertise in JavaScript, TypeScript, React, and React Native, I have extensive experience in working with Next.js and SASS for building modern and performant web applications. I enjoy exploring new technologies and pushing the boundaries of what can be achieved on the web.
 
-  My work primarily revolves around developing financial and non-financial applications, where I leverage my skills in JavaScript and blockchain technologies, including Solidity for Ethereum-based projects. Additionally, I have been involved in exciting biotechnology projects, contributing to the development of web applications that bridge the gap between technology and healthcare.
-
-  As a frontend developer, I strive to deliver elegant and intuitive user interfaces that enhance user experience and achieve business objectives. I am always excited about new challenges and open to collaboration with fellow developers and enthusiasts in the blockchain and web development communities.
-
-  Connect with me to discuss potential collaborations, share ideas, or simply chat about the latest trends in technology!
-</p>
