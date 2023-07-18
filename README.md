@@ -1,7 +1,7 @@
 <h1 align="center">Kosach German (@SpacyLion)</h1>
 
 <p align="center">
-  <img src="[https://lh3.googleusercontent.com](https://lh3.googleusercontent.com/pw/AIL4fc9zXb6KV2F_F7DM8RiUFfiOlFrK8fkwRJlzX5kxwmqB49Bxfx_7OuxV2v49_ll_K4nDGQt-UeUuaIsnu035oMTYlFwEoIebpp6IX4zxIRJKSgMXI_zQWhslDcaVikF5ksm0xZ1dMrnB91_mcpDHpmxlAUlCzCoLX3R8_rtCirwugZGachKnmn16WxM-sZfz-pdEkTrb2FeM14QhJ_uoYj11NinXH-Bdk46fsnwft5SWHNOexop3bvuSYPC9vpcq0YA9JfBfixuty2fzDaNuirf9vDv4A3_t2Eq9qtIn8vQB1r57hqjvi4dzi0fgN8D1mjKBbKsxzAeXLL5wwryCkRPZfwJcK3Uy0UWqnpJy6MPhrx4RGTPRpDY3oiXxC-ENiA7OLRlo7l4qY8bvSyYivysCtUMruBAuezHgydmI4j1b4YgmvVmS9owlBcbXSFSAnsyw4qk0_kT8EfKl3sug7hVrrzv0Uvq5iTk9z5PxabJ6cZwonUaU1H5I5975bYmbLpNKkp6sOx17wG45sSzUk8mvnLhg_OgjsZBg7fq3doXG4nuKklZdv6M7qL7gNpltX-tEniTYxN3hNRxnGXzIo7g8hnTf-RgaYVeuqnsIiaocBLaGtZ01idlPdYR-jDmB-oGA_ZzD_9UjGjEbbYFbZ2X8-PaJsaZMqyzyggYqJsKYqObFSkOIqpOObo3AFZgqvd_FfhtDWlfijcae0_Sa6c9QVBz9xnIjlLKUCAlxRJ2hC6w_yi0rCFzR40qvqyhSS5C3c1UnorqcHHhqc3YSFPvPaxx1FyR1um-FtJhkbiGdkqxUeBZMb4KP0j-F7i8xGtTTzRwkdYXsboUiaYtXYMUZUExoYhm-UT8zxXJ_eMn3fXnSIUA9Nun8O0153hRQiLyXJsZ-XCWEFywPJtc89Hc=w440-h220-no?authuser=0)" alt="Profile Banner" />
+  <img src="https://photos.app.goo.gl/c5zJcCJHhVYYvcVB7" alt="Profile Banner" />
 </p>
 
 <p align="center">👋 Hello! Welcome to my portfolio and educational project repository. I'm Kosach German, a qualified frontend JavaScript developer passionate about creating interactive and user-friendly web applications.</p>
