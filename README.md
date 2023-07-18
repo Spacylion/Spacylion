@@ -20,10 +20,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Spacylion&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Statistics" />
-    <a href="https://skyline.github.com/spacylion/2023">
-    <img src="https://skyline.github.com/spacylion/2023" alt="GitHub Skyline">
-  </a>
 </p>
+
 
 <h2>Languages, Skills, and Tools</h2>
 
@@ -86,7 +84,7 @@
 
 <h3>Languages and Tools:</h3>
 <p>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" alt="Next.js" width="40" height="40" /></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" /></a>
