@@ -1,7 +1,7 @@
 <h1 align="center">Kosach German (@SpacyLion)</h1>
 
 <p align="center">
-  <img src="https://photos.app.goo.gl/c5zJcCJHhVYYvcVB7" alt="Profile Banner" />
+  <img src="[https://photos.app.goo.gl/c5zJcCJHhVYYvcVB7](https://disk.yandex.ru/i/I_xmRGUuSSOD1g)" alt="Profile Banner" />
 </p>
 
 <p align="center">👋 Hello! Welcome to my portfolio and educational project repository. I'm Kosach German, a qualified frontend JavaScript developer passionate about creating interactive and user-friendly web applications.</p>
