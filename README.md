@@ -39,12 +39,6 @@
   <li>Ethereum</li>
 </ul>
 
-<h2>Achievements</h2>
-
-<p>
-  <a href="https://github.com/Spacylion/awesome-stats">My Awesome Stats 2020</a> - Description of your achievement.
-</p>
-
 <h2>Contact Me</h2>
 
 <p>
