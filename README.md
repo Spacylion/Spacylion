@@ -20,6 +20,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Spacylion&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Statistics" />
+    <a href="https://skyline.github.com/spacylion/2023">
+    <img src="https://skyline.github.com/spacylion/2023" alt="GitHub Skyline">
+  </a>
 </p>
 
 <h2>Languages, Skills, and Tools</h2>
@@ -47,12 +50,6 @@
   As a frontend developer, I strive to deliver elegant and intuitive user interfaces that enhance user experience and achieve business objectives. I am always excited about new challenges and open to collaboration with fellow developers and enthusiasts in the blockchain and web development communities.
 
   Connect with me to discuss potential collaborations, share ideas, or simply chat about the latest trends in technology!
-</p>
-
-<p align="center">
-  <a href="https://skyline.github.com/spacylion/2023">
-    <img src="https://skyline.github.com/spacylion/2023" alt="GitHub Skyline">
-  </a>
 </p>
 
 
