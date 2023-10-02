@@ -45,10 +45,10 @@
 </ul>
 
 
-  <section>
-    <h2>Projects</h2>
 
-    <ul>
+  <h2>Projects</h2>
+
+   <ul>
       <li>
         <strong>MovieGo</strong>
         <br>
@@ -133,7 +133,6 @@
         Description: Commercial Tilda layout. Informational page for the Scientific and Educational Center at the Institute of LETI – NOC ISBSTTS. Setup of SEO core, competitor analysis, metric integration.
       </li>
     </ul>
-  </section>
 
 
 
