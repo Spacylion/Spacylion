@@ -77,45 +77,6 @@
         Repo: <a href="https://github.com/Spacylion/financial-application-js" target="_blank">Financial App Repo</a>
       </li>
 
-   <li>
-        <strong>SAP on NextJS</strong>
-        <br>
-        Demo: <a href="https://boboplaylock.netlify.app/" target="_blank">SAP on NextJS Demo</a>
-        <br>
-        Stack: Figma Design, ESLint config, Framer motion, PostCss preprocessor Tailwindcss, SEO semantic optimization, reusable components. DRY principle observed.
-        <br>
-        Repo: <a href="https://github.com/Spacylion/NextjsStarter/tree/production" target="_blank">SAP on NextJS Repo</a>
-      </li>
-
-  <li>
-        <strong>Gm Classic</strong>
-        <br>
-        Demo: <a href="https://effulgent-duckanoo-518f73.netlify.app/" target="_blank">Gm Classic Demo</a>
-        <br>
-        Description: Working with CoinGecko API, data presentation in a grid on the page. Developed using React, with Routing DOM, BOM methodologies. Authorization via web3 wallet.
-        <br>
-        Repo: <a href="https://github.com/Spacylion/gmcwhitepaper" target="_blank">Gm Classic Repo</a>
-      </li>
-
-  <li>
-        <strong>Moody Cats Club</strong>
-        <br>
-        Demo: <a href="https://sparkling-kelpie-10ab8b.netlify.app/" target="_blank">Moody Cats Club Demo</a>
-        <br>
-        Description: Development of a hyper-visual interactive e-book using HTML + CSS + JS scripts without a framework. Noteworthy features include connection to a crypto wallet, map integration (Switzerland). I handled design, page layout, JS integration, and crypto libraries.
-        <br>
-        Repo: <a href="https://github.com/Spacylion/MoodyCats" target="_blank">Moody Cats Club Repo</a>
-      </li>
-
-  <li>
-        <strong>Fr00ts</strong>
-        <br>
-        Demo: <a href="https://fr00ts.xyz/" target="_blank">Fr00ts Demo</a>
-        <br>
-        Description: VueJS project with NFT token implementation.
-        <br>
-        Repo: <a href="https://github.com/Spacylion/Fr00tsNFT" target="_blank">Fr00ts Repo</a>
-      </li>
 
    <li>
         <strong>IT4MED_Hub</strong>
@@ -125,14 +86,8 @@
         Repo: <a href="https://github.com/IT4MED" target="_blank">IT4MED_Hub Repo</a>
       </li>
 
-<li>
-        <strong>NOC ISBSTTS</strong>
-        <br>
-        Demo: <a href="https://customsintellect.ru/" target="_blank">NOC ISBSTTS Demo</a>
-        <br>
-        Description: Commercial Tilda layout. Informational page for the Scientific and Educational Center at the Institute of LETI – NOC ISBSTTS. Setup of SEO core, competitor analysis, metric integration.
-      </li>
-    </ul>
+
+  </ul>
 
 
 
