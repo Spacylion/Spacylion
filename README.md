@@ -27,24 +27,6 @@
 </p>
 
 
-<h2>Languages, Skills, and Tools</h2>
-
-<ul  align="center">
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>React</li>
-  <li>SASS</li>
-  <li>Python</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>NodeJS</li>
-  <li>Git</li>
-  <li>Solidity</li>
-  <li>Ethereum</li>
-</ul>
-
-
-
   <h2>Projects</h2>
 
    <ul>
