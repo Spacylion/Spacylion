@@ -29,11 +29,10 @@
 
 <h2>Languages, Skills, and Tools</h2>
 
-<ul>
+<ul  align="center">
   <li>JavaScript</li>
   <li>TypeScript</li>
   <li>React</li>
-  <li>React Native</li>
   <li>SASS</li>
   <li>Python</li>
   <li>HTML5</li>
