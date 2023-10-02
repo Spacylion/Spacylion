@@ -59,7 +59,7 @@
         Repo: <a href="https://github.com/Spacylion/CinemaFrontendAPI" target="_blank">MovieGo Repo</a>
       </li>
 
-      <li>
+  <li>
         <strong>Landing Page</strong>
         <br>
         Description: Pixel-perfect and responsive layout for an informational webpage.
@@ -69,7 +69,7 @@
         Repo: <a href="https://github.com/Spacylion" target="_blank">Landing Page Repo</a>
       </li>
 
-      <li>
+  <li>
         <strong>Financial App</strong>
         <br>
         Description: Application for managing finances, including registration, adding accounts, recording expenses and income, and visualization of overall profitability. Utilizes localStorage and XHR.
@@ -77,7 +77,7 @@
         Repo: <a href="https://github.com/Spacylion/financial-application-js" target="_blank">Financial App Repo</a>
       </li>
 
-      <li>
+   <li>
         <strong>SAP on NextJS</strong>
         <br>
         Demo: <a href="https://boboplaylock.netlify.app/" target="_blank">SAP on NextJS Demo</a>
@@ -87,7 +87,7 @@
         Repo: <a href="https://github.com/Spacylion/NextjsStarter/tree/production" target="_blank">SAP on NextJS Repo</a>
       </li>
 
-      <li>
+  <li>
         <strong>Gm Classic</strong>
         <br>
         Demo: <a href="https://effulgent-duckanoo-518f73.netlify.app/" target="_blank">Gm Classic Demo</a>
@@ -97,7 +97,7 @@
         Repo: <a href="https://github.com/Spacylion/gmcwhitepaper" target="_blank">Gm Classic Repo</a>
       </li>
 
-      <li>
+  <li>
         <strong>Moody Cats Club</strong>
         <br>
         Demo: <a href="https://sparkling-kelpie-10ab8b.netlify.app/" target="_blank">Moody Cats Club Demo</a>
@@ -107,7 +107,7 @@
         Repo: <a href="https://github.com/Spacylion/MoodyCats" target="_blank">Moody Cats Club Repo</a>
       </li>
 
-      <li>
+  <li>
         <strong>Fr00ts</strong>
         <br>
         Demo: <a href="https://fr00ts.xyz/" target="_blank">Fr00ts Demo</a>
@@ -117,7 +117,7 @@
         Repo: <a href="https://github.com/Spacylion/Fr00tsNFT" target="_blank">Fr00ts Repo</a>
       </li>
 
-      <li>
+   <li>
         <strong>IT4MED_Hub</strong>
         <br>
         Description: Project for the digital department of the Federal State Budgetary Educational Institution "Pavlov First Saint Petersburg State Medical University," aimed at teaching students and specialists programming. Launched repository – IT-PYTHON-LESSONS.
@@ -125,7 +125,7 @@
         Repo: <a href="https://github.com/IT4MED" target="_blank">IT4MED_Hub Repo</a>
       </li>
 
-      <li>
+<li>
         <strong>NOC ISBSTTS</strong>
         <br>
         Demo: <a href="https://customsintellect.ru/" target="_blank">NOC ISBSTTS Demo</a>
