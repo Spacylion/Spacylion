@@ -41,15 +41,7 @@
         <br>
         Repo: <a href="https://github.com/Spacylion/CinemaFrontendAPI" target="_blank">MovieGo Repo</a>
       </li>
- <li>
-        <strong>Fullstack Dashboard for Employee Management</strong>
-        <br>
-        Description: : Fullstack dashboard for regulating employees within a company. Features include registration, bearer token verification, JWT token, bcrypt, state management, Localstorage, and Rest API.
-        <br>
-        Demo: <a href="https://github.com/Spacylion/dashboard_client/tree/master" target="_blank">Frontend (React, TS, antd, Redux, RTK, prisma): </a>
-        <br>
-        Repo: <a href="https://github.com/Spacylion/dashboard_employees/tree/master" target="_blank">Backend (express, prisma):</a>
-      </li>
+
   <li>
         <strong>Landing Page</strong>
         <br>
@@ -70,13 +62,21 @@
 
 
    <li>
+        <strong>Gm classic</strong>
+        <br>
+        Description: Financial application for monitoring cryptocurrency pairs. Works with CoinGecko API. Developed using React, with methodologies for Routing DOM and BOM. Authorization via web3 with a cryptocurrency wallet.
+        <br>
+        Demo: <a href="https://effulgent-duckanoo-518f73.netlify.app/" target="_blank">Gm classic Demo</a>
+      <br>
+        Repo: <a href="https://github.com/Spacylion/gmcwhitepaper " target="_blank">Gm classic Repo</a>
+      </li>
+  <li>
         <strong>IT4MED_Hub</strong>
         <br>
         Description: Project for the digital department of the Federal State Budgetary Educational Institution "Pavlov First Saint Petersburg State Medical University," aimed at teaching students and specialists programming. Launched repository – IT-PYTHON-LESSONS.
         <br>
         Repo: <a href="https://github.com/IT4MED" target="_blank">IT4MED_Hub Repo</a>
       </li>
-
 
   </ul>
 
