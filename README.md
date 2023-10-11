@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://www.codewars.com/users/Spacylion/badges/micro" alt="Profile Banner" />
 </p>
-
+![](https://hit.yhype.me/github/profile?user_id=86929830)
 <h1 align="center">Kosach German (@SpacyLion)</h1>
 
 <p align="center">
