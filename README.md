@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://www.codewars.com/users/Spacylion/badges/micro" alt="Profile Banner" />
 </p>
-![](https://komarev.com/ghpvc/?username=spacylion)
+
 
 
 <h1 align="center">Kosach German (@SpacyLion)</h1>
