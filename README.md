@@ -3,7 +3,7 @@
 </p>
 
 
-![Typing SVG](https://github.com/<USERNAME>/<REPO>/workflows/Typing%20SVG/badge.svg)
+![Typing SVG](https://github.com/<spacylion>/<spacylion>/workflows/Typing%20SVG/badge.svg)
 
 
 <p align="center">
