@@ -41,7 +41,15 @@
         <br>
         Repo: <a href="https://github.com/Spacylion/CinemaFrontendAPI" target="_blank">MovieGo Repo</a>
       </li>
-
+ <li>
+        <strong>Fullstack Dashboard for Employee Management</strong>
+        <br>
+        Description: : Fullstack dashboard for regulating employees within a company. Features include registration, bearer token verification, JWT token, bcrypt, state management, Localstorage, and Rest API.
+        <br>
+        Demo: <a href="https://github.com/Spacylion/dashboard_client/tree/master" target="_blank">Frontend (React, TS, antd, Redux, RTK, prisma): </a>
+        <br>
+        Repo: <a href="https://github.com/Spacylion/dashboard_employees/tree/master" target="_blank">Backend (express, prisma):</a>
+      </li>
   <li>
         <strong>Landing Page</strong>
         <br>
