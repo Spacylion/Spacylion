@@ -3,7 +3,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+Kosach+German+Frontend+developer's+Profile!)](https://git.io/typing-svg)
+![Typing SVG](https://github.com/<USERNAME>/<REPO>/workflows/Typing%20SVG/badge.svg)
 
 
 <p align="center">
