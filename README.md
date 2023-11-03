@@ -114,7 +114,7 @@
 </p>
 <p>
   <a href="https://twitter.com/spacylion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spacylion" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/spacey-eth-376848214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spacey-eth-376848214/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/phd-german-kosach-376848214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/phd-german-kosach-376848214/" height="30" width="40" /></a>
   <a href="https://discord.gg/https://discord.gg/HHtnWFfj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HHtnWFfj" height="30" width="40" /></a>
 </p>
 
