@@ -6,9 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=German+Kosach+Fullstack+Developer!)](https://git.io/typing-svg)
 
 
-<p align="center">
-  <img src="https://disk.yandex.com/i/ADKzoZyhwmGXgw" alt="Profile Banner" />
-</p>
 
 <p align="center">👋 Hello! I'm Kosach German, a qualified frontend JavaScript developer passionate about creating interactive and user-friendly web applications.</p>
 
