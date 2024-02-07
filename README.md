@@ -7,7 +7,7 @@
 
 
 
-<p align="center">👋 Hello! I'm Kosach German, a qualified frontend JavaScript developer passionate about creating interactive and user-friendly web applications.</p>
+<p align="center">👋 Hello! I'm Kosach German, a qualified fullstack TypeScript developer passionate about creating interactive and user-friendly web application s.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/german-kosach-376848214/">LinkedIn</a> | <a href="https://github.com/Spacylion">GitHub</a> | <a href="https://t.me/drdev">Telegram</a>
