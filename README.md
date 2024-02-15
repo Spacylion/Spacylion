@@ -25,10 +25,11 @@
 </p>
 
 <p align="center">
-  <a href="https://drdev.tech/">Portfolio Website</a> 
+<h2>  <a href="https://drdev.tech/">  Portfolio Website</a> 
+  </h2>
 </p>
 
-  <h2>Portfolio</h2>
+  <h2>Description of stack</h2>
    <ul>
       <li>
         <strong>MovieGo</strong>
@@ -65,8 +66,6 @@
         <br>
         Repo: <a href="https://github.com/Spacylion/financial-application-js" target="_blank">Financial App Repo</a>
       </li>
-
-
    <li>
         <strong>Gm classic</strong>
         <br>
@@ -83,21 +82,7 @@
         <br>
         Repo: <a href="https://github.com/IT4MED" target="_blank">IT4MED_Hub Repo</a>
       </li>
-
   </ul>
-
-
-<p>
-  In addition to my expertise in JavaScript, TypeScript, React, and React Native, I have extensive experience in working with Next.js and SASS for building modern and performant web applications. I enjoy exploring new technologies and pushing the boundaries of what can be achieved on the web.
-
-  My work primarily revolves around developing financial and non-financial applications, where I leverage my skills in JavaScript and blockchain technologies, including Solidity for Ethereum-based projects. Additionally, I have been involved in exciting biotechnology projects, contributing to the development of web applications that bridge the gap between technology and healthcare.
-
-  As a frontend developer, I strive to deliver elegant and intuitive user interfaces that enhance user experience and achieve business objectives. I am always excited about new challenges and open to collaboration with fellow developers and enthusiasts in the blockchain and web development communities.
-
-  Connect with me to discuss potential collaborations, share ideas, or simply chat about the latest trends in technology!
-</p>
-
-
 
 <h3>Connect with me:</h3>
 <p>
