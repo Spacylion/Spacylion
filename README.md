@@ -78,7 +78,7 @@
   <li>
         <strong>IT4MED_Hub</strong>
         <br>
-        Description: Project for the digital department of the Federal State Budgetary Educational Institution "Pavlov First Saint Petersburg State Medical University," aimed at teaching students and specialists programming. Launched repository – IT-PYTHON-LESSONS.
+        Description: Project for the digital department of the "Pavlov First Saint Petersburg State Medical University," aimed at teaching students and specialists programming.
         <br>
         Repo: <a href="https://github.com/IT4MED" target="_blank">IT4MED_Hub Repo</a>
       </li>
