@@ -15,7 +15,7 @@
 <h2>About Me</h2>
 
 <p>
-  I am a dedicated and enthusiastic developer with expertise in JavaScript, TypeScript, React, React Native, SASS, Python, HTML5, CSS3, NodeJS, and Git. I love creating innovative and responsive websites and applications that deliver a seamless user experience.
+  I am a dedicated and enthusiastic developer with expertise in JavaScript, TypeScript, React, React Native, SASS, Python, HTML5, CSS3, NodeJS, PostgreSQL, SQLite and Git. I love creating innovative and responsive websites and applications that deliver a seamless user experience.
 </p>
 
 <h2>Statistics</h2>
