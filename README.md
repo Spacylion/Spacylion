@@ -18,8 +18,25 @@
   I am a dedicated and enthusiastic developer with expertise in JavaScript, TypeScript, React, React Native, SASS, Python, HTML5, CSS3, NodeJS, PostgreSQL, SQLite and Git. I love creating innovative and responsive websites and applications that deliver a seamless user experience.
 </p>
 
-<h2>  <a href="https://app.rezi.ai/s/kTaH5PW93SSENbFpdJwy">Check my CV</a> 
-  </h2>
+<table>
+  <tr>
+    <td>
+      <h2>CV</h2>
+    </td>
+    <td>
+      <h2>Portfolio Website</h2>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://app.rezi.ai/s/kTaH5PW93SSENbFpdJwy">Check my CV</a>
+    </td>
+    <td>
+      <a href="https://drdev.tech/">Portfolio Website</a>
+    </td>
+  </tr>
+</table>
+
 
 <h2>Statistics</h2>
 
@@ -27,10 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Spacylion&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Statistics" />
 </p>
 
-<p align="center">
-<h2>  <a href="https://drdev.tech/">  Portfolio Website</a> 
-  </h2>
-</p>
 
   <h2>Description of stack</h2>
    <ul>
