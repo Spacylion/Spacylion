@@ -18,7 +18,7 @@
   I am a dedicated and enthusiastic developer with expertise in JavaScript, TypeScript, React, React Native, SASS, Python, HTML5, CSS3, NodeJS, PostgreSQL, SQLite and Git. I love creating innovative and responsive websites and applications that deliver a seamless user experience.
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td>
       <h2>CV</h2>
