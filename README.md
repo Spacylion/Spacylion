@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://app.rezi.ai/s/kTaH5PW93SSENbFpdJwy">Check my CV</a>
+      <a href="https://app.rezi.ai/s/ESV0c4aFZ3P9KBUESQg7">Check my CV</a>
     </td>
     <td>
       <a href="https://drdev.tech/">Portfolio Website</a>
