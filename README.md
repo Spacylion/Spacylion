@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=German+Kosach+Fullstack+Developer!)](https://git.io/typing-svg)
 
 
-<p align="center">👋 Hello! I'm Kosach German, a qualified fullstack TypeScript developer passionate about creating interactive and user-friendly web application s.</p>
+<p align="center">👋 Hello! I'm German Kosach, a qualified fullstack TypeScript developer passionate about creating interactive and user-friendly web application s.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/german-kosach-376848214/">LinkedIn</a> | <a href="https://github.com/Spacylion">GitHub</a> | <a href="https://t.me/drdev">Telegram</a>
@@ -15,7 +15,7 @@
 <h2>About Me</h2>
 
 <p>
-  I am a dedicated and enthusiastic developer with expertise in JavaScript, TypeScript, React, React Native, SASS, Python, HTML5, CSS3, NodeJS, PostgreSQL, SQLite and Git. I love creating innovative and responsive websites and applications that deliver a seamless user experience.
+  I am a dedicated and enthusiastic developer with expertise in JavaScript, TypeScript, Solidity, React, SASS, Python, HTML5, CSS3, NodeJS, PostgreSQL, SQLite and Git. I love creating innovative and responsive websites and applications that deliver a seamless user experience.
 </p>
 
 <table align="center">
