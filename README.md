@@ -44,62 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Spacylion&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Statistics" />
 </p>
 
-
-  <h2>Description of stack</h2>
-   <ul>
-      <li>
-        <strong>MovieGo</strong>
-        <br>
-        Description: "MovieGo" is a web application for booking cinema tickets. Implemented features include film, session, and seat selection, booking, payment, and QR code generation for confirmation. Technologies used: HTML, CSS, JavaScript, Local Storage, Fetch API.
-        <br>
-        Demo: <a href="https://spacylion.github.io/CinemaFrontendAPI/" target="_blank">MovieGo Demo</a>
-        <br>
-        Repo: <a href="https://github.com/Spacylion/CinemaFrontendAPI" target="_blank">MovieGo Repo</a>
-      </li>
-  <li>
-        <strong>Fullstack Dashboard for Employee Management</strong>
-        <br>
-        Description: Fullstack dashboard for regulating employees within a company. Features include registration, bearer token verification, JWT token, bcrypt, state management, Localstorage, and Rest API.
-        <br>
-        Frontend (React, TS, antd, Redux, RTK, prisma): <a href="https://github.com/Spacylion/dashboard_client/tree/master" target="_blank">Frontend Repo</a>
-        <br>
-       Backend (express, prisma): <a href="https://github.com/Spacylion/dashboard_employees/tree/master" target="_blank">Backend Repo</a>
-      </li>
-  <li>
-        <strong>Landing Page</strong>
-        <br>
-        Description: Pixel-perfect and responsive layout for an informational webpage.
-        <br>
-        Demo: <a href="https://spacylion.github.io/" target="_blank">Landing Page Demo</a>
-        <br>
-        Repo: <a href="https://github.com/Spacylion" target="_blank">Landing Page Repo</a>
-      </li>
-
-  <li>
-        <strong>Financial App</strong>
-        <br>
-        Description: Application for managing finances, including registration, adding accounts, recording expenses and income, and visualization of overall profitability. Utilizes localStorage and XHR.
-        <br>
-        Repo: <a href="https://github.com/Spacylion/financial-application-js" target="_blank">Financial App Repo</a>
-      </li>
-   <li>
-        <strong>Gm classic</strong>
-        <br>
-        Description: Financial application for monitoring cryptocurrency pairs. Works with CoinGecko API. Developed using React, with methodologies for Routing DOM and BOM. Authorization via web3 with a cryptocurrency wallet.
-        <br>
-        Demo: <a href="https://effulgent-duckanoo-518f73.netlify.app/" target="_blank">Gm classic Demo</a>
-      <br>
-        Repo: <a href="https://github.com/Spacylion/gmcwhitepaper " target="_blank">Gm classic Repo</a>
-      </li>
-  <li>
-        <strong>IT4MED_Hub</strong>
-        <br>
-        Description: Project for the digital department of the "Pavlov First Saint Petersburg State Medical University," aimed at teaching students and specialists programming.
-        <br>
-        Repo: <a href="https://github.com/IT4MED" target="_blank">IT4MED_Hub Repo</a>
-      </li>
-  </ul>
-
 <h3>Connect with me:</h3>
 <p>
   Feel free to reach out to me via LinkedIn, GitHub, or Telegram. Let's connect and collaborate!<br/>
