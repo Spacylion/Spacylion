@@ -17,12 +17,6 @@
   I am a dedicated and enthusiastic developer with expertise in JavaScript, TypeScript, Solidity, React, SASS, Python, HTML5, CSS3, NodeJS, PostgreSQL, SQLite, and Git. I love creating innovative and responsive websites and applications that deliver a seamless user experience.
 </p>
 
-<h2>My Coding Stats</h2>
-
-<p align="center">
-<a href="https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc"><img src="https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg" alt="Total time coded since Jun 14 2024" /></a>
-</p>
-
 <table align="center">
   <tr>
     <td>
@@ -46,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Spacylion&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Statistics" />
-</p>
+<a href="https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc"><img src="https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg" alt="Total time coded since Jun 14 2024" /></a>
 
 <h3>Connect with me:</h3>
 <p>
