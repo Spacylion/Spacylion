@@ -7,12 +7,7 @@
 
 <p align="center">👋 Hello! I'm German Kosach, a qualified fullstack TypeScript developer, Blockchain Integration Engineer, passionate about creating interactive and user-friendly web applications.</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/german-kosach-376848214/">LinkedIn</a> | <a href="https://github.com/Spacylion">GitHub</a> | <a href="https://t.me/drdev">Telegram</a>
-</p>
-
 <h2>About Me</h2>
-
 <p>
   I am a dedicated and enthusiastic developer with expertise in JavaScript, TypeScript, Solidity, React, SASS, Python, HTML5, CSS3, NodeJS, PostgreSQL, SQLite, and Git. I love creating innovative and responsive websites and applications that deliver a seamless user experience.
 </p>
