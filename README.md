@@ -4,7 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=German+Kosach+Fullstack+Developer!)](https://git.io/typing-svg)
 
+
 <p align="center">👋 Hello! I'm German Kosach, a qualified fullstack TypeScript developer, Blockchain Integration Engineer, passionate about creating interactive and user-friendly web applications.</p>
+[![wakatime](https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg)](https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/german-kosach-376848214/">LinkedIn</a> | <a href="https://github.com/Spacylion">GitHub</a> | <a href="https://t.me/drdev">Telegram</a>
