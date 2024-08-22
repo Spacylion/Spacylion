@@ -2,9 +2,7 @@
   <img src="https://www.codewars.com/users/Spacylion/badges/micro" alt="Profile Banner" />
 </p>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=German+Kosach+Fullstack+Developer!)](https://git.io/typing-svg)
-
 
 <p align="center">👋 Hello! I'm German Kosach, a qualified fullstack TypeScript developer, Blockchain Integration Engineer, passionate about creating interactive and user-friendly web applications.</p>
 
@@ -15,7 +13,14 @@
 <h2>About Me</h2>
 
 <p>
-  I am a dedicated and enthusiastic developer with expertise in JavaScript, TypeScript, Solidity, React, SASS, Python, HTML5, CSS3, NodeJS, PostgreSQL, SQLite and Git. I love creating innovative and responsive websites and applications that deliver a seamless user experience.
+  I am a dedicated and enthusiastic developer with expertise in JavaScript, TypeScript, Solidity, React, SASS, Python, HTML5, CSS3, NodeJS, PostgreSQL, SQLite, and Git. I love creating innovative and responsive websites and applications that deliver a seamless user experience.
+</p>
+
+<h2>My Coding Stats</h2>
+
+<p align="center">
+  <!-- WakaTime Badge -->
+  [![wakatime](https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg)](https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc)
 </p>
 
 <table align="center">
@@ -36,7 +41,6 @@
     </td>
   </tr>
 </table>
-
 
 <h2>Statistics</h2>
 
@@ -88,5 +92,3 @@
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" />
   </a>
 </p>
-
-
