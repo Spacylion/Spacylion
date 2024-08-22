@@ -6,7 +6,7 @@
 
 
 <p align="center">👋 Hello! I'm German Kosach, a qualified fullstack TypeScript developer, Blockchain Integration Engineer, passionate about creating interactive and user-friendly web applications.</p>
-<a href="https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc"><img src="https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg" alt="Total time coded since Jun 14 2024" /></a>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/german-kosach-376848214/">LinkedIn</a> | <a href="https://github.com/Spacylion">GitHub</a> | <a href="https://t.me/drdev">Telegram</a>
 </p>
@@ -20,8 +20,7 @@
 <h2>My Coding Stats</h2>
 
 <p align="center">
-  <!-- WakaTime Badge -->
-  [![wakatime](https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg)](https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc)
+<a href="https://wakatime.com/@5fc62e08-4e5e-4073-96b9-1543b53b93bc"><img src="https://wakatime.com/badge/user/5fc62e08-4e5e-4073-96b9-1543b53b93bc.svg" alt="Total time coded since Jun 14 2024" /></a>
 </p>
 
 <table align="center">
