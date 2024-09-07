@@ -43,6 +43,8 @@
   <a href="https://www.linkedin.com/in/german-kosach/">LinkedIn</a> | <a href="https://github.com/Spacylion">GitHub</a> | <a href="https://t.me/SpacyDAO">Telegram</a>
 </p>
 <p>
+
+  <a href="https://t.me/duckbyte" target="blank">Telegram Blog</a> 
   <a href="https://twitter.com/spacylion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spacylion" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/german-kosach/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/german-kosach/" height="30" width="40" /></a>
   <a href="https://discord.gg/https://discord.gg/HHtnWFfj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HHtnWFfj" height="30" width="40" /></a>
