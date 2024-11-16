@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=German+Kosach+Fullstack+Developer!)](https://git.io/typing-svg)
 
 
-<p align="center">👋 Hello! I'm German Kosach, a qualified fullstack TypeScript developer, Blockchain Integration Engineer, passionate about creating interactive and user-friendly web applications.</p>
+<p align="center">👋 Hello! I'm German Kosach, a qualified Full Stack TypeScript developer, Blockchain Integration Engineer, Scrum master, passionate about creating interactive and user-friendly web applications.</p>
 
 <h2>About Me</h2>
 <p>
