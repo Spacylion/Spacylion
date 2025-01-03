@@ -40,7 +40,7 @@
 <h3>Connect with me:</h3>
 <p>
   Feel free to reach out to me via LinkedIn, GitHub, or Telegram. Let's connect and collaborate!<br/>
-  <a href="https://www.linkedin.com/in/german-kosach/">LinkedIn</a> | <a href="https://github.com/Spacylion">GitHub</a> | <a href="https://t.me/SpacyDAO">Telegram</a>
+  <a href="https://www.linkedin.com/in/german-kosach/">LinkedIn</a> | <a href="https://github.com/Spacylion">GitHub</a> | <a href="https://t.me/drdev">Telegram</a>
 </p>
 <p>
 
