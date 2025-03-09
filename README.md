@@ -39,11 +39,10 @@
 
 <h3>Connect with me:</h3>
 <p>
-  Feel free to reach out to me via LinkedIn, GitHub, or Telegram. Let's connect and collaborate!<br/>
-  <a href="https://www.linkedin.com/in/german-kosach/">LinkedIn</a> | <a href="https://github.com/Spacylion">GitHub</a> | <a href="https://t.me/drdev">Telegram</a>
+  Feel free to reach out to me via LinkedIn, GitHub, Telegram or Instagram. Let's connect and collaborate!<br/>
+  <a href="https://www.linkedin.com/in/german-kosach/">LinkedIn</a> | <a href="https://github.com/Spacylion">GitHub</a> | <a href="https://t.me/drdev">Telegram</a> | <a href="https://www.instagram.com/duckb.yte/">Instagram</a>
 </p>
 <p>
-
   <a href="https://t.me/duckbyte" target="blank">Telegram Blog</a> 
   <a href="https://twitter.com/spacylion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spacylion" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/german-kosach/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/german-kosach/" height="30" width="40" /></a>
